@@ -1,2 +1,0 @@
-# genai
-generative ai practice
